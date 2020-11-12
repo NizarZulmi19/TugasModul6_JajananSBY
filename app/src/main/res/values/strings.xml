@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TugasModul6 (JajananSBY)</string>
+    <string name="jajanan_khas_surabaya">Jajanan Khas Surabaya</string>
+    <string name="imgjajan">Fotojajan</string>
+    <string name="namajajan">Namajajan</string>
+    <string name="imgjajan2">Fotojajanan</string>
+    <string name="namajajan2">Namajajanan</string>
+    <string name="descjajan">Dscjajan</string>
+    <string name="harga">Harga</string>
+</resources>
